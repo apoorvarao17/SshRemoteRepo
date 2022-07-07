@@ -3,4 +3,8 @@ this is class C
 C updated second time
 This line in added on the remote repository
 This line is added in local change1
+<<<<<<< HEAD
 This is local update change2
+=======
+This is a server update change2
+>>>>>>> 68f04eab96fdeaa98b42d46e1c99ae2dd3829b5d
