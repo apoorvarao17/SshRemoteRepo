@@ -3,3 +3,4 @@ this is class C
 C updated second time
 This line in added on the remote repository
 This line is added in local change1
+This is local update change2
